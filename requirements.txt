@@ -1,0 +1,12 @@
+# Kafka Client
+kafka-python==2.0.2
+
+# Avro serialization (Schema Registry使用時)
+avro-python3==1.10.2
+confluent-kafka[avro]==2.3.0
+
+# JSON処理
+python-json-logger==2.0.7
+
+# Utilities
+python-dotenv==1.0.0
